@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ Hi, My name is Halimah and I work remotely as a freelance Data Analyst. 
+											
+I hold a Bachelor’s degree in Systems Engineering from the University of Lagos.	
+I am Skilled in Excel, SQL, Python, Power BI and Tableau. As a freelance data analyst and data scientist, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs.
+I am also experienced in machine learning, supervised and unsupervised algorithms and use data visualization techniques to present the results. I employ technical software such as, Excel, SQL, R, Python for my data projects and Power BI and Tableau for Visualizations.
+
+I have always enjoyed solving puzzles. So that’s how I look at big data sets: to me it is one big puzzle I want to solve. Finding patterns nobody else sees is the challenge to me.
+											Do you want to work together? Please reach out to me by e-mail or linkedin.
