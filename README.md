@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- Hi, My name is Halimah and I work remotely as a freelance Data Analyst. 
+ Hi, My name is Halimah and I work remotely as a freelance Data Analyst and Data Scientist. 
 											
 I hold a Bachelor’s degree in Systems Engineering from the University of Lagos.	
 I am Skilled in Excel, SQL, Python, Power BI and Tableau. As a freelance data analyst and data scientist, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs.
